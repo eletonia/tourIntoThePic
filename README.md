@@ -1,17 +1,28 @@
 # Blend Into the Picture
 
 ## Navigating through the code and submission
+#### Code
+All code lies within the python notebook Final_proj. The first section contains all of the fucntions used in this project. Additionally there is a utils.py file which contains code from a previous project from CS445 which allows users to select points within an image.
 
+#### Report
+Blend_Into_The_Picture.pdf is the report detailing our motivation, approach, and steps we had taken to produce the attached results.
 
+#### Results
+To view screenshots of the produced 3D rooms, there are folders for each of the examples we did as part of our submission (i.e. painting_output). The obj files and corresponding texture maps are located under the directory named the same as the image (i.e. painting).
+
+##### Blender Flies
+If you have Blender v2.83 and want to view our samples, we've added blend files corresponding to the sample images we did as part of the submission.
+
+## Creating your own 3D Room
 To create a 3D view of an image please follow the following instructions.
 
 To ensure you can run the program without issues, make sure the following is installed in a conda environment
   - Python 3
   - Jupyter Notebook
-  - matplotlib==3.1.1
-  - numpy==1.17.0
-  - opencv-contrib-python==4.1.0.25
-  - scipy==1.3.1
+  - matplotlib v3.1.1
+  - numpy v1.17.0
+  - opencv-contrib-python v4.1.0.25
+  - scipy v1.3.1
   - scikit-image
 
 ## Getting Started
