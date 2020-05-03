@@ -1,0 +1,3 @@
+newmtl backwallMaterial
+map_Kd backwall.jpeg
+map_Ka backwall.jpeg
