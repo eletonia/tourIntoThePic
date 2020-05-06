@@ -5,7 +5,7 @@
 All code lies within the python notebook Final_proj. The first section contains all of the fucntions used in this project. Additionally there is a utils.py file which contains code from a previous project from CS445 which allows users to select points within an image.
 
 #### Report
-Blend_Into_The_Picture.pdf is the report detailing our motivation, approach, and steps we had taken to produce the attached results.
+BlendIntoThePicture_elengik2_vvanka2.pdf is the report detailing our motivation, approach, and steps we had taken to produce the attached results. Final_proj_jupyter_code.pdf is the pdf version of the jupyter notebook containing all of the code we've written 
 
 #### Results
 To view screenshots of the produced 3D rooms, there are folders for each of the examples we did as part of our submission (i.e. painting_output). The obj files and corresponding texture maps are located under the directory named the same as the image (i.e. painting).
